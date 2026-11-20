@@ -1,4 +1,17 @@
-#Hi, I'm Shrikant
+<div align="center">
+
+<p>
+<a href="https://takneekitanmay.tech">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./cards/dark/hero-mobile.svg" />
+  <source media="(max-width: 600px)" srcset="./cards/light/hero-mobile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./cards/dark/hero.svg" />
+  <img src="./cards/light/hero.svg" width="100%" alt="Tanmay Tiwari — full-stack developer from India. Building web apps and real-time experiences." />
+</picture>
+</a>
+</p>
+</div>
+# Hi, I'm Shrikant Kumbar
 **A passionate AI Agent Developer || Java Full Stack Develeper**
 
 Email Me 👉 ✉️ **kumbarshrikanthsk@gmail.com** For Collaboration/Project or Anything Else. 😊😊
