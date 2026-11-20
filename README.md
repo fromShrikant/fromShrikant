@@ -1,18 +1,6 @@
-<div align="center">
 
-<p>
-<a href="https://takneekitanmay.tech">
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./cards/dark/hero-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="./cards/light/hero-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./cards/dark/hero.svg" />
-  <img src="./cards/light/hero.svg" width="100%" alt="Tanmay Tiwari — full-stack developer from India. Building web apps and real-time experiences." />
-</picture>
-</a>
-</p>
-</div>
-# Hi, I'm Shrikant Kumbar
-**A passionate AI Agent Developer || Java Full Stack Develeper**
+# Hi 👋, I'm Shrikant Kumbar
+**A passionate AI Agent Developer || Full Stack Develeper**
 
 Email Me 👉 ✉️ **kumbarshrikanthsk@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -39,8 +27,6 @@ Email Me 👉 ✉️ **kumbarshrikanthsk@gmail.com** For Collaboration/Project o
 ![](https://streak-stats.demolab.com/?user=fromShrikant&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fromShrikant&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fromShrikant&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
