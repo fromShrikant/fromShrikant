@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Shrikant
+#Hi, I'm Shrikant
 **A passionate AI Agent Developer || Java Full Stack Develeper**
 
 Email Me 👉 ✉️ **kumbarshrikanthsk@gmail.com** For Collaboration/Project or Anything Else. 😊😊
