@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Shrikant Kumbar
-**A passionate AI Agent Developer || Full Stack Develeper**
+**A passionate AI Agent Developer || Full Stack Developer**
 
 Email Me 👉 ✉️ **kumbarshrikanthsk@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
